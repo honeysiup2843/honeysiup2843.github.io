@@ -1,0 +1,127 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Student_Council]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Student_Council</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 30 Jul 2024 18:39:41 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 30 Jul 2024 18:39:40 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[1주차]]></title><description><![CDATA[ 
+ <br><br>
+<br>주제: AI의 정의, 역사, 발전 단계
+<br>내용:
+
+<br>인공지능(AI) 개념 정의
+<br>AI의 역사: 초기 연구부터 현대 AI까지
+<br>AI의 주요 발전 단계와 기술적 전환점
+
+
+<br>김우철 : <a data-tooltip-position="top" aria-label="https://Woo124.github.io" rel="noopener" class="external-link" href="https://Woo124.github.io" target="_blank"></a><br>
+우정현 : <a data-tooltip-position="top" aria-label="https://wwpepe.github.io/" rel="noopener" class="external-link" href="https://wwpepe.github.io/" target="_blank"></a><br>
+임동연 : <a data-tooltip-position="top" aria-label="https://caosisa.github.io/index.html" rel="noopener" class="external-link" href="https://caosisa.github.io/index.html" target="_blank"></a><br>
+이현 : ]]></description><link>모각코/1주차.html</link><guid isPermaLink="false">모각코/1주차.md</guid><pubDate>Tue, 30 Jul 2024 18:39:14 GMT</pubDate></item><item><title><![CDATA[2주차]]></title><description><![CDATA[ 
+ <br><br>
+<br>주제: 머신러닝과 딥러닝의 기본 원리
+<br>내용:
+
+<br>머신러닝의 기본 개념 및 유형 (지도학습, 비지도학습, 강화학습)
+<br>딥러닝의 기초 개념 (신경망, 활성화 함수, 역전파 알고리즘)
+<br>대표적인 머신러닝 및 딥러닝 알고리즘 소개
+
+
+<br>김우철 : <a data-tooltip-position="top" aria-label="https://Woo124.github.io" rel="noopener" class="external-link" href="https://Woo124.github.io" target="_blank"></a><br>
+우정현 : <a data-tooltip-position="top" aria-label="https://wwpepe.github.io/" rel="noopener" class="external-link" href="https://wwpepe.github.io/" target="_blank"></a><br>
+임동연 : <a data-tooltip-position="top" aria-label="https://caosisa.github.io/index.html" rel="noopener" class="external-link" href="https://caosisa.github.io/index.html" target="_blank"></a><br>
+이현 : ]]></description><link>모각코/2주차.html</link><guid isPermaLink="false">모각코/2주차.md</guid><pubDate>Tue, 30 Jul 2024 18:39:10 GMT</pubDate></item><item><title><![CDATA[3주차]]></title><description><![CDATA[ 
+ <br><br>
+<br>주제: AI 구현에 사용되는 도구와 프레임워크
+<br>내용:
+
+<br>Python과 AI: 주요 라이브러리 (NumPy, Pandas, Matplotlib 등)
+<br>머신러닝 프레임워크: Scikit-learn
+<br>딥러닝 프레임워크: TensorFlow, Keras, PyTorch 소개 및 기본 사용법
+
+
+<br>김우철 : <a data-tooltip-position="top" aria-label="https://Woo124.github.io" rel="noopener" class="external-link" href="https://Woo124.github.io" target="_blank"></a><br>
+우정현 : <a data-tooltip-position="top" aria-label="https://wwpepe.github.io/" rel="noopener" class="external-link" href="https://wwpepe.github.io/" target="_blank"></a><br>
+임동연 : <a data-tooltip-position="top" aria-label="https://caosisa.github.io/index.html" rel="noopener" class="external-link" href="https://caosisa.github.io/index.html" target="_blank"></a><br>
+이현 : ]]></description><link>모각코/3주차.html</link><guid isPermaLink="false">모각코/3주차.md</guid><pubDate>Tue, 30 Jul 2024 18:39:18 GMT</pubDate></item><item><title><![CDATA[4주차]]></title><description><![CDATA[ 
+ <br><br>
+<br>주제: AI 모델 구축 및 데이터 전처리
+<br>내용:
+
+<br>데이터 수집 및 전처리 기법
+<br>특성 선택 및 차원 축소 방법
+<br>기본 머신러닝 모델 구축 및 평가 방법
+<br>교차 검증 및 모델 튜닝
+
+
+<br>김우철 : <a data-tooltip-position="top" aria-label="https://Woo124.github.io" rel="noopener" class="external-link" href="https://Woo124.github.io" target="_blank"></a><br>
+우정현 : <a data-tooltip-position="top" aria-label="https://wwpepe.github.io/" rel="noopener" class="external-link" href="https://wwpepe.github.io/" target="_blank"></a><br>
+임동연 : <a data-tooltip-position="top" aria-label="https://caosisa.github.io/index.html" rel="noopener" class="external-link" href="https://caosisa.github.io/index.html" target="_blank"></a><br>
+이현 : ]]></description><link>모각코/4주차.html</link><guid isPermaLink="false">모각코/4주차.md</guid><pubDate>Tue, 30 Jul 2024 18:38:55 GMT</pubDate></item><item><title><![CDATA[5주차]]></title><description><![CDATA[ 
+ <br><br>
+<br>주제: 자연어 처리 기초와 응용
+<br>내용:
+
+<br>NLP의 기본 개념과 주요 과제 (텍스트 분류, 감성 분석, 기계 번역 등)
+<br>텍스트 전처리 기법 (토큰화, 스톱워드 제거, 어간 추출 등)
+<br>Word Embedding 기법 (Word2Vec, GloVe)
+<br>간단한 NLP 프로젝트 예제 (예: 스팸 메일 분류기)
+
+
+<br>김우철 : <a data-tooltip-position="top" aria-label="https://Woo124.github.io" rel="noopener" class="external-link" href="https://Woo124.github.io" target="_blank"></a><br>
+우정현 : <a data-tooltip-position="top" aria-label="https://wwpepe.github.io/" rel="noopener" class="external-link" href="https://wwpepe.github.io/" target="_blank"></a><br>
+임동연 : <a data-tooltip-position="top" aria-label="https://caosisa.github.io/index.html" rel="noopener" class="external-link" href="https://caosisa.github.io/index.html" target="_blank"></a><br>
+이현 : ]]></description><link>모각코/5주차.html</link><guid isPermaLink="false">모각코/5주차.md</guid><pubDate>Tue, 30 Jul 2024 18:39:23 GMT</pubDate></item><item><title><![CDATA[individual blog]]></title><description><![CDATA[ 
+ ]]></description><link>individual-blog/individual-blog.html</link><guid isPermaLink="false">individual blog/individual blog.md</guid><pubDate>Tue, 30 Jul 2024 17:56:21 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>주제: AI의 정의, 역사, 발전 단계
+<br>내용:
+
+<br>인공지능(AI) 개념 정의
+<br>AI의 역사: 초기 연구부터 현대 AI까지
+<br>AI의 주요 발전 단계와 기술적 전환점
+
+
+<br><br>
+<br>주제: 머신러닝과 딥러닝의 기본 원리
+<br>내용:
+
+<br>머신러닝의 기본 개념 및 유형 (지도학습, 비지도학습, 강화학습)
+<br>딥러닝의 기초 개념 (신경망, 활성화 함수, 역전파 알고리즘)
+<br>대표적인 머신러닝 및 딥러닝 알고리즘 소개
+
+
+<br><br>
+<br>주제: AI 구현에 사용되는 도구와 프레임워크
+<br>내용:
+
+<br>Python과 AI: 주요 라이브러리 (NumPy, Pandas, Matplotlib 등)
+<br>머신러닝 프레임워크: Scikit-learn
+<br>딥러닝 프레임워크: TensorFlow, Keras, PyTorch 소개 및 기본 사용법
+
+
+<br><br>
+<br>주제: AI 모델 구축 및 데이터 전처리
+<br>내용:
+
+<br>데이터 수집 및 전처리 기법
+<br>특성 선택 및 차원 축소 방법
+<br>기본 머신러닝 모델 구축 및 평가 방법
+<br>교차 검증 및 모델 튜닝
+
+
+<br><br>
+<br>주제: 자연어 처리 기초와 응용
+<br>내용:
+
+<br>NLP의 기본 개념과 주요 과제 (텍스트 분류, 감성 분석, 기계 번역 등)
+<br>텍스트 전처리 기법 (토큰화, 스톱워드 제거, 어간 추출 등)
+<br>Word Embedding 기법 (Word2Vec, GloVe)
+<br>간단한 NLP 프로젝트 예제 (예: 스팸 메일 분류기)
+
+
+<br><br>
+<br>주제: AI를 활용한 예술 및 창작 사례
+<br>내용:
+
+<br>AI와 예술: 음악 생성, 이미지 생성, 문학 창작 등
+<br>생성적 적대 신경망(GANs) 소개 및 활용 사례
+<br>AI를 활용한 창작 도구 및 플랫폼 소개
+<br>AI 창작 프로젝트 예제 (예: GAN을 이용한 이미지 생성)
+
+
+]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 30 Jul 2024 17:43:26 GMT</pubDate></item></channel></rss>
